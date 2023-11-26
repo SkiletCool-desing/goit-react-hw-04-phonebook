@@ -1,0 +1,15 @@
+.contact_form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 250px;
+  border: 1px solid black;
+}
+
+.add_btn {
+  width: 100px;
+}
+
+.input_names {
+  display: block;
+}
